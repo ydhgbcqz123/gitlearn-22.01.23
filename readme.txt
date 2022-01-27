@@ -1,4 +1,3 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-Test push new data to Git.
-Test fetch new data from Git.
+Test the use of git status.
